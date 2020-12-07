@@ -1,3 +1,6 @@
 .trading-view{
     width:50%
 }
+#tradingview_813bd div {
+    height: 600px !important;
+    }
